@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2c2a07f33dd4d744489cdf50a60d81ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explosionParticles: {instanceID: 0}
+  - syntyCubeEffectedExplosionParticles: {instanceID: 0}
+  - destroySound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

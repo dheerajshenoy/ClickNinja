@@ -1,8 +1,11 @@
 # ClickNinja
 Game similar to fruit ninja created using Unity.
 
-# Installation
+# Build
 Clone this git repo and build the project using the Unity Editor 
+
+# Installation
+Get one of the release package
 
 # Screenshots
 

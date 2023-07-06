@@ -17,7 +17,7 @@ Get one of the release package
 
 # Changelogs
 1. v0
-  * Same as the tutorial 
+  * Nothing much 
 2. v0.1
   * Implemented destroy all cubes behaviour to the "Synty Cube"
   * Added particle lightning effect

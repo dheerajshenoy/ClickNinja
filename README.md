@@ -2,7 +2,7 @@
 Game similar to fruit ninja created using Unity.
 
 # Installation
-The git repo 
+Clone this git repo and build the project using the Unity Editor 
 
 # Screenshots
 

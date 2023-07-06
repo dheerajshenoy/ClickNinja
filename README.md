@@ -1,5 +1,5 @@
 # ClickNinja
-Game similar to fruit ninja created using Unity. This was created by following hands-on tutorial by Unity Technologies (Code and Create Tutorial).
+Game similar to fruit ninja created using Unity.
 
 # Screenshots
 
